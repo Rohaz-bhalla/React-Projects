@@ -1,0 +1,20 @@
+.center {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 14rem;
+}
+
+body {
+    background-color: rgb(35, 35, 35);
+}
+
+button{
+    background-color: pink;
+    color: red;
+    font-size: 22px;
+    border-radius: 9px;
+}

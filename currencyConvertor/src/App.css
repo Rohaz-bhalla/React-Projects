@@ -1,0 +1,22 @@
+.form
+{
+  text-align: center;
+  background-color: rgb(92, 91, 91);
+  border-radius: 15px;
+  margin: 12rem;
+  color: white;
+  margin-left: 30rem;
+  margin-right: 30rem;
+}
+
+.input
+{
+  background-color: wheat;
+  color: black;
+  border-radius: 5px;
+}
+
+body
+{
+  background-color: rgb(33, 33, 33);
+}
