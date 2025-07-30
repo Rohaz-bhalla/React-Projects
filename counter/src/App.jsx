@@ -32,14 +32,14 @@ const removeValue = () =>
    <div className="center">
     <Rohaz />
     
-     <h2>LOVE-COUNTER</h2>
+     <h2>COUNTER</h2>
      <h3>Value {counter}</h3>
 
      <br></br>
 
-     <button onClick={addValue}>Add  Love</button>
+     <button onClick={addValue}>Add</button>
      <br></br><br></br>
-     <button onClick={removeValue}>Love</button>
+     <button onClick={removeValue}>Remove</button>
 
    </div>
    </>
